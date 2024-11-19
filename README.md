@@ -1,50 +1,50 @@
-# heic-to-jpg Converter
+# HEIC-to-JPG Converter
 =====================
 
-**Descripción**
+**Description**
 ---------------
 
-Este proyecto proporciona un script Python llamado `heic_to_jpg.py` que convierte archivos HEIC a JPG. El script busca los archivos HEIC en una carpeta especificada y los convierte a JPG, guardando los resultados en una carpeta separada.
+This project provides a Python script called `heic_to_jpg.py` that converts HEIC files to JPG. The script searches for HEIC files in a specified folder and converts them to JPG, saving the results in a separate folder.
 
-**Uso**
+**Usage**
 ---------
 
-1. Copie el archivo `heic_to_jpg.py` a un directorio deseado.
-2. Ejecutar el script con la siguiente sintaxis: `python heic_to_jpg.py`
-3. Siga las instrucciones de los mensajes de ayuda del script para procesar una carpeta específica.
+1. Copy the `heic_to_jpg.py` file to your desired directory.
+2. Run the script with the following syntax: `python heic_to_jpg.py`
+3. Follow the script's help messages to process a specific folder.
 
-**Colaboración**
+**Collaboration**
 ----------------
 
-*   **Contribuciones**: Si desea contribuir al proyecto, por favor, crea un nuevo repositorio en GitHub y haz una solicitud de fusión.
-*   **Issues**: Si encuentra un error o tiene una sugerencia, por favor, abra un ticket de issue en el repositorio.
+*   **Contributions**: If you would like to contribute to the project, please create a new repository on GitHub and submit a pull request.
+*   **Issues**: If you encounter a bug or have a suggestion, please open an issue ticket in the repository.
 
-**Requisitos**
+**Requirements**
 ---------------
 
 *   Python 3.7+
-*   Bibliotecas `cffi`, `pillow_heif` y `pycparser`
+*   Libraries: `cffi`, `pillow_heif`, and `pycparser`
 
-**Instalación**
+**Installation**
 --------------
 
-1. Crea un entorno virtual para el proyecto.
-2. Instala las bibliotecas necesarias con la siguiente sintaxis: `pip install -r requirements.txt`
-3. Ejecuta el script con la sintaxis: `python heic_to_jpg.py`
+1. Create a virtual environment for the project.
+2. Install the required libraries using the following syntax: `pip install -r requirements.txt`
+3. Run the script with the syntax: `python heic_to_jpg.py`
 
-**Configuración**
+**Configuration**
 ----------------
 
-*   El script busca los archivos HEIC en una carpeta especificada.
-*   Los resultados se guardan en una carpeta separada dentro de la carpeta original.
+*   The script searches for HEIC files in a specified folder.
+*   Results are saved in a separate folder within the original folder.
 
-**Nota**: Este proyecto está diseñado para convertir archivos HEIC a JPG. No es responsable del contenido o calidad de los archivos originales.
+**Note**: This project is designed to convert HEIC files to JPG. It is not responsible for the content or quality of the original files.
 
-**Tips y recomendaciones**
+**Tips and Recommendations**
 
-*   Asegúrate de tener una carpeta vacía para almacenar los resultados.
-*   Si tienes archivos HEIC en varias carpetas, puedes ejecutar el script múltiples veces para procesar cada carpeta por separado.
+*   Make sure you have an empty folder to store the results.
+*   If you have HEIC files in multiple folders, you can run the script multiple times to process each folder separately.
 
-**Conectar con nosotros**
+**Connect with Us**
 
-Si tienes alguna pregunta o necesitas ayuda con este proyecto, no dudes en contactarnos. Estamos aquí para ayudarte y mejorar el proyecto.
+If you have any questions or need help with this project, feel free to contact us. We are here to help and improve the project.
