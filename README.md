@@ -38,7 +38,7 @@ Este proyecto proporciona un script Python llamado `heic_to_jpg.py` que conviert
 *   El script busca los archivos HEIC en una carpeta especificada.
 *   Los resultados se guardan en una carpeta separada dentro de la carpeta original.
 
-**Nota**: Este proyecto está diseñado para convertir archivos HEIC a JPG y no es responsable del contenido o calidad de los archivos originales.
+**Nota**: Este proyecto está diseñado para convertir archivos HEIC a JPG. No es responsable del contenido o calidad de los archivos originales.
 
 **Tips y recomendaciones**
 
